@@ -1,8 +1,5 @@
 ## Hi there My Name is Ifechukwude Stephen Igbo a Data analyst
 
-<!--
-**IfeC76/IfeC76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am a Data Analyst with a background in Internal Control and Financial Operations passionate about transforming raw data into meaningful insights that support better decision-making.
 My journey into data was shaped by years of working with operational risk, Card Operations, reconciliation, reporting, and process improvement. I became deeply interested in how structured data analysis can drive transparency, efficiency, and sustainable growth.
 Today, I’m building my expertise in analytics by combining my professional experience with technical data skills.
