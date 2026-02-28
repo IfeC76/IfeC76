@@ -19,10 +19,10 @@ I enjoy solving problems that involve:
 •	Supporting strategic decisions with data
 
 My Toolkit Includes:
-Language = SQL
-Visualization = Power BI
-Data Tools = Microsoft Excel and Google Sheets
-Databases = PostgreSQL, MySQL, Oracle 
+- SQL
+- Power BI
+-  Microsoft Excel and Google Sheets
+-  PostgreSQL, MySQL, Oracle 
 Other Tools = Git & GitHub
 
 I am currently completing EdMotion Pod Task 01, building a Data Analyst portfolio from scratch.
@@ -46,4 +46,3 @@ Email: ifechukwude_igbo@yahoo.com
 LinkedIn: 
 
 Fun fact: My background in internal control helps me spot data inconsistencies and anomalies quickly. I naturally think in patterns and risks.
--->
